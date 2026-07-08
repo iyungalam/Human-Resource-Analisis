@@ -3,11 +3,6 @@
 Seiring dengan pertumbuhan perusahaan, pengelolaan sumber daya manusia menjadi semakin kompleks, salah satunya ditandai dengan tingginya tingkat employee attrition. Berdasarkan data yang tersedia, perusahaan mencatat attrition rate sebesar 17%, melampaui ambang batas ideal sebesar 10%. Kondisi ini berpotensi meningkatkan biaya rekrutmen dan pelatihan, mengganggu produktivitas, serta memengaruhi stabilitas operasional perusahaan.
 Untuk membantu perusahaan memahami penyebab tingginya attrition, dikembangkan sebuah HR Analytics Dashboard yang menyajikan analisis komprehensif mengenai karakteristik tenaga kerja, distribusi karyawan, dan pola attrition berdasarkan berbagai faktor, seperti jenis kelamin, status pernikahan, tingkat pendidikan, departemen, bidang studi, jabatan, tingkat gaji, level pekerjaan, dan status lembur (overtime). Dashboard ini diharapkan dapat mendukung pengambilan keputusan berbasis data dalam menyusun strategi retensi karyawan yang lebih efektif.
 
-### Cakupan Proyek
-1. Membersihkan dan mengolah data awal
-2. Menganalisis faktor-faktor yang menyebabkan tingginya Attrition Rate dengan menjawab pertanyaan pada exploratory data analysis dan visualisasi data
-3. Membuat business dashboard menggunakan looker.
-
 ### Persiapan
 
 Sumber data: https://github.com/dicodingacademy/dicoding_dataset/blob/main/employee/employee_data.csv
