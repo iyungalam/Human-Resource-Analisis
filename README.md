@@ -15,7 +15,7 @@ pip install numpy pandas matplotlib seaborn squarify
 
 ## Business Dashboard
 
-Business dashboard proyek ini dibuat menggunakan Google Looker Studio dengan menambahkan fitur filter berdasarkan status karyawan yaitu aktif dan inaktif. Pada dashboard ditampilkan jumlah seluruh karyawan, jumlah karyawan yang aktif dan yang keluar, nilai rata-rata gaji karyawan, nilai rata-rata tahun bekerja karyawan di perusahaan, grafik pie chart perbandingan jumlah berdasarkan status dengan gender, status dengan status pernikahan, attrition rate, dan status dengan bekerja overtime. Selain itu terdapat grafik yang menunjukkan sebaran karyawan berdasarkan usia, departement kerja, bidang pekerjaan, level pekerjaan, jenjang pendidikan, bidang pendidikan yang ditempuh dan kategori gaji karyawan.
+Business dashboard proyek ini dibuat menggunakan Google Data Studio dengan menambahkan fitur filter berdasarkan status karyawan yaitu aktif dan inaktif. Pada dashboard ditampilkan jumlah seluruh karyawan, jumlah karyawan yang aktif dan yang keluar, nilai rata-rata gaji karyawan, nilai rata-rata tahun bekerja karyawan di perusahaan, grafik pie chart perbandingan jumlah berdasarkan status dengan gender, status dengan status pernikahan, attrition rate, dan status dengan bekerja overtime. Selain itu terdapat grafik yang menunjukkan sebaran karyawan berdasarkan usia, departement kerja, bidang pekerjaan, level pekerjaan, jenjang pendidikan, bidang pendidikan yang ditempuh dan kategori gaji karyawan.
 
 
 Link DASHBOARD:
